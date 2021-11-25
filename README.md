@@ -11,7 +11,7 @@
 # 节点/代理服务器 分享
  每天都会更新，上次更新时间:2021-11-26
 
-• 全部 [查看](https://github.com/OVOJKzzZ/test/blob/684148bca535ceb7004bbba156a3b55c99759394/all)
+• 全部 [查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)
 
 • 仅 VMESS [查看]()
 
