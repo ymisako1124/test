@@ -1,8 +1,8 @@
 # 安卓代理工具下载及教程
-• SagerNet:[官方下载1]()  [官方下载2]()使用教程
+• SagerNet:[官方下载1](https://github.com/SagerNet/SagerNet/releases/download/0.5-rc25/SN-0.5-rc25-arm64-v8a.apk)  [官方下载2](https://github.com/SagerNet/SagerNet/releases) 使用教程
 ![](https://github.com/OVOJKzzZ/test/blob/8c033aed593cf95b7da5887120871ac179f9c8b1/SagerNet2.jpg)
 
-• AnXray:[官方下载1](https://github.com/SagerNet/SagerNet/releases/download/0.5-rc25/SN-0.5-rc25-arm64-v8a.apk) [官方下载2](https://github.com/SagerNet/SagerNet/releases) 使用教程
+• AnXray:[官方下载1]() [官方下载2]() 使用教程
 
 • Clash For Android:[官方下载1]()  [官方下载2]()使用教程
 
