@@ -18,12 +18,12 @@
 • SagerNet:[官方下载1](https://github.com/SagerNet/SagerNet/releases/download/0.5-rc25/SN-0.5-rc25-arm64-v8a.apk)  [官方下载2](https://github.com/SagerNet/SagerNet/releases) [使用教程]()
 ![](https://github.com/OVOJKzzZ/test/blob/37bed02467fbf319e5058d4b6361a626cb8f21f2/SagerNet2.jpg)
 
-• AnXray:[官方下载1]() [官方下载2]() [使用教程]()
+• AnXray:[官方下载1]()  [官方下载2]()  [使用教程]()
 
-• Clash For Android:[官方下载1]()  [官方下载2]()使用教程
+• Clash:[官方下载1]()  [官方下载2]()  [使用教程]()
 
-• Surfboard:[官方下载1](https://github.com/OVOJKzzZ/test/releases/download/surfboard/Surfboard-2.5.5.apk) [官方下载2](https://github.com/OVOJKzzZ/test/releases/tag/surfboard)  [使用教程]()
+• Surfboard:[官方下载1](https://github.com/OVOJKzzZ/test/releases/download/surfboard/Surfboard-2.5.5.apk)  [官方下载2](https://github.com/OVOJKzzZ/test/releases/tag/surfboard)   [使用教程]()
 
-• SsrRay:[官方下载1]()
+• SsrRay:[官方下载1]()  
 
-• v2rayNg:[官方下载1]() [官方下载2]() 使用教程
+• v2rayNg:[官方下载1]()  [官方下载2]()  使用教程
