@@ -1,12 +1,12 @@
 # 安卓代理工具下载及教程
-• SagerNet:[下载丨]() 使用教程
+• SagerNet:[直接下载]()  [下载地址2]()使用教程
 ![](https://github.com/OVOJKzzZ/test/blob/8c033aed593cf95b7da5887120871ac179f9c8b1/SagerNet2.jpg)
 
-• AnXray:[下载丨]() 使用教程
+• AnXray:[下载地址1]() [下载地址2]() 使用教程
 
-• Clash For Android:[下载丨]() 使用教程
+• Clash For Android:[直接下载]()  [下载地址2]()使用教程
 
-• v2rayNg:[下载丨]() 使用教程
+• v2rayNg:[直接下载]() [下载地址2]() 使用教程
 
 # 节点/代理服务器 分享(每天都会更新，上次更新时间:2021-11-23)
 • 全部 [查看](https://github.com/OVOJKzzZ/test/blob/main/123)
