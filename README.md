@@ -22,8 +22,7 @@
 
 • Clash For Android:[官方下载1]()  [官方下载2]()使用教程
 
-• Surfboard:[官方下载1]()
-
+• Surfboard:[官方下载1](https://github.com/OVOJKzzZ/test/releases/download/surfboard/Surfboard-2.5.5.apk)[官方下载2](https://github.com/OVOJKzzZ/test/releases/tag/surfboard) [使用教程]()
 • SsrRay:[官方下载1]()
 
 • v2rayNg:[官方下载1]() [官方下载2]() 使用教程
