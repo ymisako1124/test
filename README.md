@@ -28,6 +28,7 @@
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/surfboard.jpg)
 
 • SsrRay:[官方下载1]()  
+![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/SsrRay.jpg)
 
 • v2rayNg:[官方下载1]()  [官方下载2]()  使用教程
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/v2rayNg.jpg)
