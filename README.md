@@ -1,7 +1,7 @@
 # 节点/代理服务器 分享
- ！！！！暂未做好，请等待做完！！！！
+  在[这里](https://github.com/OVOJKzzZ/test/discussions)一起讨论
 
-每天都会更新，上次更新时间:2021-11-26
+  每天都会更新，上次更新时间:2021-11-26
 
 • 全部 [查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)
 
