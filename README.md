@@ -27,7 +27,7 @@
 • Surfboard:[官方下载1](https://github.com/OVOJKzzZ/test/releases/download/surfboard/Surfboard-2.5.5.apk)  [官方下载2](https://github.com/OVOJKzzZ/test/releases/tag/surfboard)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/surfboard.jpg)
 
-• SsrRay:[官方下载1](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases/download/v3.8.14/ssrray-release-3.8.14.apk)  [官方下载2](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
+• SSRRAY:[官方下载1](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases/download/v3.8.14/ssrray-release-3.8.14.apk)  [官方下载2](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/SsrRay.jpg)
 
 • v2rayNg:[官方下载1](https://github.com/2dust/v2rayNG/releases/download/1.6.26/v2rayNG_1.6.26_arm64-v8a.apk)  [官方下载2](https://github.com/2dust/v2rayNG/releases)  [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
