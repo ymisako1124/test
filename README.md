@@ -1,5 +1,5 @@
 # 节点/代理服务器 分享
-  在[这里](https://github.com/OVOJKzzZ/test/discussions)一起讨论，没有任何限制
+  有什么想说的在[这里](https://github.com/OVOJKzzZ/test/discussions)一起讨论，没有任何限制
 
   每天都会更新，上次更新时间:2021-11-26
 
