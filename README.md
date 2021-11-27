@@ -1,5 +1,5 @@
-## 本页面的任何链接可能被墙了，如无法 访问/下载/订阅，请翻墙后再重试！
-## 🍆节点/代理服务器 分享
+# 本页面的任何链接可能被墙了，如无法 访问/下载/订阅，请翻墙后再重试！
+# 🍆节点/代理服务器 分享
 🍆
 
       💦💦
@@ -27,7 +27,7 @@
 - 其它:Clash 专用配置文件 [查看157个](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)
 >以上链接可能被墙了，如无法访问/订阅，请翻墙后再重试
 
-## 🍆安卓代理工具下载及教程
+# 🍆安卓代理工具下载及教程
 - [SagerNet](https://github.com/SagerNet/SagerNet)：[官方下载1](https://github.com/SagerNet/SagerNet/releases/download/0.5-rc25/SN-0.5-rc25-arm64-v8a.apk)   [官方下载2](https://github.com/SagerNet/SagerNet/releases)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/SagerNet2.jpg)
 
@@ -45,3 +45,5 @@
 
 - [v2rayNG](https://github.com/2dust/v2rayNG)：[官方下载1](https://github.com/2dust/v2rayNG/releases/download/1.6.26/v2rayNG_1.6.26_arm64-v8a.apk)  [官方下载2](https://github.com/2dust/v2rayNG/releases)  [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/v2rayNg.jpg)
+# 声明
+所有资源均来自互联网，仅供大家交流学习使用，出现违法问题概不负责。本项目仅限个人使用，禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责
