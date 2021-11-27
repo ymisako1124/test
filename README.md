@@ -1,4 +1,4 @@
-# 🍆节点/代理服务器 分享🍆
+# 🍆节点/代理服务器 分享
 🍆
 
       💦💦
@@ -23,7 +23,7 @@
 • 仅 SS [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ss)
 
 • 其它:Clash 专用配置文件 [查看(157个)✓](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)
-# 🍆安卓代理工具下载及教程🍆
+# 🍆安卓代理工具下载及教程
 • [SagerNet](https://github.com/SagerNet/SagerNet):[官方下载1](https://github.com/SagerNet/SagerNet/releases/download/0.5-rc25/SN-0.5-rc25-arm64-v8a.apk)   [官方下载2](https://github.com/SagerNet/SagerNet/releases)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/SagerNet2.jpg)
 
