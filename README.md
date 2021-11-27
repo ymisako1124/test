@@ -1,3 +1,4 @@
+# 本页面的任何链接可能被墙了，如无法下载/访问/订阅，请翻墙后再重试！
 # 🍆节点/代理服务器 分享
 🍆
 
@@ -9,8 +10,6 @@
  *（大家有什么想说的或问题在[这里](https://github.com/OVOJKzzZ/test/discussions)一起讨论，这里没有[审查](https://zh.m.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6)并且不会[和谐](https://zh.m.wikipedia.org/wiki/%E6%B2%B3%E8%9F%B9_(%E7%B6%B2%E8%B7%AF%E7%94%A8%E8%AA%9E))）*
 
   以下代理在分享前我都会挨个检查，把不可用的删除，只会分享出可用的。分享后失效的，在下次更新后会删除。上次更新时间：**2021-11-27**
-
-重要提醒：以下链接可能被墙了，如果你不能 订阅/访问 请翻墙后再重试
 
 - 全部 [查看157个](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)
 >以上链接可能被墙了，如无法访问/订阅，请翻墙后再重试
