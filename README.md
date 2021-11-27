@@ -15,13 +15,13 @@
 
 • 其它:Clash 专用配置文件 [查看(405个)✓](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)
 # 安卓代理工具下载及教程
-• SagerNet:[官方下载1](https://github.com/SagerNet/SagerNet/releases/download/0.5-rc25/SN-0.5-rc25-arm64-v8a.apk)   [官方下载2](https://github.com/SagerNet/SagerNet/releases)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
+• [SagerNet](https://github.com/SagerNet/SagerNet):[官方下载1](https://github.com/SagerNet/SagerNet/releases/download/0.5-rc25/SN-0.5-rc25-arm64-v8a.apk)   [官方下载2](https://github.com/SagerNet/SagerNet/releases)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/SagerNet2.jpg)
 
-• AnXray:[官方下载1](https://github.com/XTLS/AnXray/releases/download/0.4-rc06/AX-0.4-rc06-arm64-v8a.apk)  [官方下载2](https://github.com/XTLS/AnXray/releases)  [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
+• [AnXray](https://github.com/XTLS/AnXray):[官方下载1](https://github.com/XTLS/AnXray/releases/download/0.4-rc06/AX-0.4-rc06-arm64-v8a.apk)  [官方下载2](https://github.com/XTLS/AnXray/releases)  [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/AnXray.jpg)
 
-• Clash:[官方下载1](https://github.com/Kr328/ClashForAndroid/releases/download/v2.4.14/cfa-2.4.14-foss-arm64-v8a-release.apk)  [官方下载2](https://github.com/Kr328/ClashForAndroid/releases)  [订阅转换](https://acl4ssr-sub.github.io/)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
+• [Clash](https://github.com/Kr328/ClashForAndroid):[官方下载1](https://github.com/Kr328/ClashForAndroid/releases/download/v2.4.14/cfa-2.4.14-foss-arm64-v8a-release.apk)  [官方下载2](https://github.com/Kr328/ClashForAndroid/releases)  [订阅转换](https://acl4ssr-sub.github.io/)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/clash.jpg)
 
 • Surfboard:[官方下载1](https://github.com/OVOJKzzZ/test/releases/download/surfboard/Surfboard-2.5.5.apk)  [官方下载2](https://github.com/OVOJKzzZ/test/releases/tag/surfboard)  [订阅转换](https://acl4ssr-sub.github.io/)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
