@@ -12,15 +12,15 @@
 
 • 全部 [查看(157个)✓](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)
 
-• 仅 VMESS [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/vmess)
+• ~~仅 VMESS [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/vmess)~~
 
-• 仅 免流(80、443)  [查看✗]()
+• ~~仅 免流(80、443)  [查看✗]()~~
 
-• 仅 ~~SSR~~ [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ssr)
+• ~~仅 SSR [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ssr)~~
 
-• 仅 Trojan [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Trojan)
+• ~~仅 Trojan [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Trojan)~~
 
-• 仅 SS [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ss)
+• ~~仅 SS [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ss)~~
 
 • 其它:Clash 专用配置文件 [查看(157个)✓](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)
 # 🍆安卓代理工具下载及教程
