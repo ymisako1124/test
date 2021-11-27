@@ -46,4 +46,4 @@
 - [v2rayNG](https://github.com/2dust/v2rayNG)：[官方下载1](https://github.com/2dust/v2rayNG/releases/download/1.6.26/v2rayNG_1.6.26_arm64-v8a.apk)  [官方下载2](https://github.com/2dust/v2rayNG/releases)  [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/v2rayNg.jpg)
 # 声明
-所有资源均来自互联网，仅供大家交流学习使用，出现违法问题概不负责。本项目仅限个人使用，禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责
+所有资源均来自互联网，仅供大家交流学习使用。本项目仅限个人使用，禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责
