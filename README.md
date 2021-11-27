@@ -24,7 +24,7 @@
 • [Clash](https://github.com/Kr328/ClashForAndroid):[官方下载1](https://github.com/Kr328/ClashForAndroid/releases/download/v2.4.14/cfa-2.4.14-foss-arm64-v8a-release.apk)  [官方下载2](https://github.com/Kr328/ClashForAndroid/releases)  [订阅转换](https://acl4ssr-sub.github.io/)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/clash.jpg)
 
-• Surfboard:[官方下载1](https://github.com/OVOJKzzZ/test/releases/download/surfboard/Surfboard-2.5.5.apk)  [官方下载2](https://github.com/OVOJKzzZ/test/releases/tag/surfboard)  [订阅转换](https://acl4ssr-sub.github.io/)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
+• [Surfboard](https://manual.getsurfboard.com/):[官方下载1](https://github.com/OVOJKzzZ/test/releases/download/surfboard/Surfboard-2.5.5.apk)  [官方下载2](https://github.com/OVOJKzzZ/test/releases/tag/surfboard)  [订阅转换](https://acl4ssr-sub.github.io/)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
 ![](https://raw.githubusercontent.com/OVOJKzzZ/test/main/surfboard.jpg)
 
 • [SSRRAY](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android):[官方下载1](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases/download/v3.8.14/ssrray-release-3.8.14.apk)  [官方下载2](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)   [使用教程](https://raw.githubusercontent.com/OVOJKzzZ/test/main/google)
