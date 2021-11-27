@@ -7,7 +7,7 @@
 
 • 仅 VMESS [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/vmess)
 
-• 仅 免流(80,443)  [查看✗]()
+• 仅 免流(80、443)  [查看✗]()
 
 • 仅 SSR [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ssr)
 
