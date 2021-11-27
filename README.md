@@ -19,7 +19,7 @@
 
 - ~~仅 专线(iplc、iepl)  [查看]()~~
 
-- Clash 专用配置文件(157个) [直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)或订阅链接：
+- Clash 专用配置文件(157个) (包含ss、vmess、trojan)[直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)或订阅链接：
 
       https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml
 
