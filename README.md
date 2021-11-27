@@ -1,7 +1,7 @@
 # 节点/代理服务器 分享
  （大家有什么想说的或问题在[这里](https://github.com/OVOJKzzZ/test/discussions)一起讨论，这里不会和谐）
 
-  分享出的尽量都保证可用，每天都会更新，失效的也会删除。上次更新时间:2021-11-26
+  我只会分享可用的代理/节点，且每天会更新，失效的也会删除。上次更新时间:2021-11-26
 
 • 全部 [查看(405个)✓](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)
 
