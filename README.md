@@ -14,8 +14,6 @@
 - 全部(157个) [直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)或者订阅链接：
 https://raw.githubusercontent.com/OVOJKzzZ/test/main/all
 
-- ~~仅 VMESS [查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/vmess)~~
-
 - ~~仅 免流(80、443)  [查看]()~~
 
 - ~~仅 专线(ipel)  [查看]()~~
