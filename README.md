@@ -16,7 +16,7 @@
 
 • 仅 免流(80、443)  [查看✗]()
 
-• 仅 SSR [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ssr)
+• 仅 ~~SSR~~ [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/ssr)
 
 • 仅 Trojan [查看✗](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Trojan)
 
