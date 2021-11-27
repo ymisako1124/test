@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/OVOJKzzZ/test/main/all
 
 - ~~仅 免流(80、443)  [查看]()~~
 
-- ~~仅 专线(iplc、ipel)  [查看]()~~
+- ~~仅 专线(iplc、iepl)  [查看]()~~
 
 - 其它:Clash 专用配置文件(157个) [直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)或订阅链接：
 https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml
