@@ -11,7 +11,7 @@
 
   以下代理在分享前我都会挨个检查，把不可用的删除，只会分享出可用的。分享后失效的，在下次更新后会删除。上次更新时间：**2021-11-27**
 
-- 全部(157个)(包含ss,vmess,trojan)[直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)或者订阅链接：
+- 全部：157个，包含ss,vmess,trojan[直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)或者订阅链接：
 
       https://raw.githubusercontent.com/OVOJKzzZ/test/main/all
 
@@ -19,7 +19,7 @@
 
 - ~~仅 专线(iplc、iepl)  [查看]()~~
 
-- Clash 专用配置文件(157个) (包含ss,vmess,trojan)[直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)或订阅链接：
+- Clash 专用配置文件：157个，包含ss,vmess,trojan[直接查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml)或订阅链接：
 
       https://raw.githubusercontent.com/OVOJKzzZ/test/main/Clash.yaml
 
