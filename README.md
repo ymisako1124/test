@@ -10,7 +10,7 @@
 
   以下代理在分享前我都会挨个检查，把不可用的删除，只会分享出可用的。分享后失效的，在下次更新后会删除。上次更新时间:**2021-11-27**
 
-• 全部 [查看157个](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)(**链接可能被墙，如不能 访问/订阅 请翻墙**)
+• 全部 [查看157个](https://raw.githubusercontent.com/OVOJKzzZ/test/main/all)**(链接可能被墙，如不能 访问/订阅 请翻墙)**
 
 • ~~仅 VMESS [查看](https://raw.githubusercontent.com/OVOJKzzZ/test/main/vmess)~~
 
