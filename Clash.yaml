@@ -5,83 +5,55 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇨🇦 (已存活1天)加拿大-3.61MB/s, server: 134.195.198.95, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大-3.61MB/s, server: 134.195.198.95, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇲 美国-3.47MB/s, server: 38.68.134.190, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇲 美国-4.01MB/s, server: 38.75.136.58, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: 🇺🇲 美国-3.76MB/s, server: 167.88.63.71, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇲 美国-2.34MB/s, server: 38.68.134.37, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇲 美国-2.98MB/s, server: 38.75.136.21, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇸🇬 新加坡-1.04MB/s, server: 217.197.161.113, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇸🇬 新加坡-768.4KB/s, server: 217.197.161.109, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇺🇲 US_03, server: 142.202.48.74, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇺🇲 US_07, server: 167.88.62.34, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇲 US_10, server: 142.202.48.58, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇺🇲 US_04, server: 142.202.48.52, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇲 US_05, server: 38.68.134.23, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: ‌🇨🇦CA_04, server: 134.195.198.95, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇲 US_10 2, server: 38.107.226.48, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇲 US_10 (1), server: 38.107.226.48, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇺🇲 US_12, server: 142.202.48.17, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: 🇺🇲 _US_美国, server: 38.68.134.190, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇲 _US_美国 2, server: 38.114.114.68, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇲 _US_美国 3, server: 167.88.62.62, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇲 _US_美国 4, server: 167.88.63.79, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: "🇭🇰 [CM] [SS] HK64|2.0x|原生", server: gz.cm.data2china.com, port: 30045, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇭🇰 [CM] [SS] HK35|2.0x|原生", server: gz.cm.data2china.com, port: 30043, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇭🇰 [CM] [SS] HK32|2.0x|原生", server: gzcm.rokishi.cyou, port: 10000, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇭🇰 [CM] [SS] HK62|2.0x|原生", server: gzcm.rokishi.cyou, port: 10002, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇨🇳 [CM] [SS] TW20|2.0x|原生", server: jmcm.rokishi.cyou, port: 10085, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇭🇰 [CM] [SS] HK31|2.0x|原生", server: jmcm.rokishi.cyou, port: 10006, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇸🇬 [CM] [SS] SG21|2.0x|DNS", server: jmcm.rokishi.cyou, port: 10049, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇸🇬 [CM] [SS] SG51|2.0x|DNS", server: jmcm.rokishi.cyou, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇰🇷 [CM] [SS] KR10|2.0x|原生", server: jmcm.rokishi.cyou, port: 10059, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: "🇭🇰 [CM] [SS] HK61|2.0x|原生", server: jmcm.rokishi.cyou, port: 10011, type: ss, cipher: chacha20-ietf-poly1305, password: e2a5a185-474b-40f9-8645-97906a55be31}
-  - {name: 🇺🇲 _US_美国 5, server: 38.68.135.19, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇲 US_05 2, server: 38.75.136.102, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇲 _US_美国 (1), server: 38.114.114.68, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇲 _US_美国 (2), server: 167.88.62.62, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇲 _US_美国 (4), server: 38.68.135.19, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇲 US_12 2, server: 142.202.48.52, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: 🇺🇲 US_09, server: 38.68.134.85, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: ‌🇨🇦CA_09, server: 134.195.196.12, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇺🇲 US_03 2, server: 142.202.48.108, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇫🇷 Relay_🇫🇷 FR-🇫🇷FR_99, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇬🇧 英国-2.47MB/s, server: 172.99.190.186, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇬🇧 英国-2.24MB/s, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇲 美国-2.23MB/s, server: 38.39.192.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇬🇧 英国-3.44MB/s, server: 172.99.190.90, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇲 美国-2.40MB/s, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇨🇦 加拿大-3.42MB/s, server: 134.195.196.3, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇸🇬 新加坡, server: 172.104.168.83, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇸🇬 新加坡 2, server: 172.104.168.83, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇸🇬 新加坡 3, server: 172.104.168.83, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇸🇬 新加坡 4, server: 172.104.168.83, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇸🇬 新加坡 5, server: 172.104.168.83, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇸🇬 新加坡 6, server: 172.104.168.83, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇸🇬 新加坡 7, server: 172.104.168.83, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇸🇬 新加坡 8, server: 172.104.168.83, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇸🇬 新加坡 9, server: 172.104.168.83, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇸🇬 新加坡 10, server: 172.104.168.83, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇸🇬 新加坡 11, server: 172.104.168.83, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_23, server: v2-sg01.ddjppt.xyz, port: 443, type: vmess, uuid: 9f0e5838-579f-3321-9ad8-b456e47cf474, alterId: 2, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: v2-sg01.ddjppt.xyz}}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_62, server: chuch3go.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: chuch3go.com}}
+  - {name: 🇸🇬 新加坡 (1), server: 172.104.168.83, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇸🇬 新加坡 (2), server: 172.104.168.83, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇸🇬 新加坡 (3), server: 172.104.168.83, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 新加坡 (4), server: 172.104.168.83, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 新加坡 (5), server: 172.104.168.83, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇸🇬 新加坡 (6), server: 172.104.168.83, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇸🇬 新加坡 (8), server: 172.104.168.83, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇸🇬 新加坡 (9), server: 172.104.168.83, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇸🇬 新加坡 (10), server: 172.104.168.83, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: 🇲🇾 _SG_FMYC-2021-11-25_63, server: zecjk.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: zecjk.com}}
   - {name: 🇲🇾 _GB_FMYC-2021-11-25_68, server: italy-milan.mah3Hoet.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: italy-milan.mah3Hoet.com}}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_71, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_72, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_76, server: eeh7iewe.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: eeh7iewe.com}}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_77, server: 194.163.134.101, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8doqA73pHheo}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_80, server: aicoo6du.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: aicoo6du.com}}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_82, server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_83, server: 172.99.190.186, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_84, server: 172.99.190.186, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _US_FMYC-2021-11-25_87, server: usa-washington.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-washington.lvuft.com}}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_88, server: usa-buffalo.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-buffalo.lvuft.com}}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_89, server: 134.195.198.95, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_90, server: 134.195.198.95, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_94, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_95, server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_98, server: 134.195.196.214, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_99, server: 104.19.101.3, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /gdo93qerwtyuo, ws-headers: {Host: e.fovi.tk}}
   - {name: 🇲🇾 _SC_FMYC-2021-11-25_100, server: xe3rayu3.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: xe3rayu3.com}}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_108, server: 134.195.198.95, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_114, server: 134.195.196.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇩🇪 _DE_FMYC-2021-11-25_116, server: 161.97.64.169, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: czXXqP8K5Uya}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_117, server: 134.195.196.33, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_131, server: 161.97.64.196, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 65OsnpZHYW5P}
@@ -91,75 +63,41 @@ proxies:
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_183, server: 198.57.27.218, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_186, server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_193, server: 198.57.27.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇲🇾 _GB_FMYC-2021-11-25_197, server: 185.172.113.156, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇫🇷 _FR_FMYC-2021-11-25_202, server: 145.239.1.137, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇲🇾 _MY_FMYC-2021-11-25_205, server: shai7ein.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: shai7ein.com}}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_211, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_212, server: 198.57.27.218, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_213, server: 185.172.113.85, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_214, server: 185.172.113.85, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_215, server: 185.172.113.85, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_216, server: 185.172.113.85, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _GB_FMYC-2021-11-25_217, server: 185.172.113.85, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_224, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_225, server: 46.29.218.6, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_226, server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇲🇾 _US_FMYC-2021-11-25_227, server: 38.39.192.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _GB_FMYC-2021-11-25_228, server: 23.106.33.152, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: S3YqACC58uajapxRy7S3D63xcXOeFnl2w9NZezAKDgSYD0RZBFTy3pI8ElCaO4}
   - {name: 🇲🇾 _GB_FMYC-2021-11-25_229, server: 217.197.161.166, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _GB_FMYC-2021-11-25_230, server: 185.172.113.85, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇲🇾 _US_FMYC-2021-11-25_231, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _US_FMYC-2021-11-25_232, server: 172.107.233.234, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_233, server: 145.239.1.137, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_235, server: 145.239.1.137, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇫🇷 _FR_FMYC-2021-11-25_236, server: 145.239.1.137, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_237, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _RU_FMYC-2021-11-25_242, server: t5.ssrsub.com, port: 11033, type: trojan, password: 0d0a53dd-6a0f-47ac-8d0c-6eca674926b2, sni: t5.ssrsub.com}
-  - {name: 🇲🇾 _RU_FMYC-2021-11-25_243, server: t5.ssrsub.com, port: 11033, type: trojan, password: a0daa9d9-6257-4ae9-9959-ccfb993f122c, sni: t5.ssrsub.com}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_253, server: az0708-a.zc20200426.club, port: 40000, type: vmess, uuid: ab6e388b-3b1b-39b6-8b5c-9074224a9b48, alterId: 2, cipher: auto, tls: true}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_254, server: 46.29.218.6, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_255, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_256, server: 46.29.218.6, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_257, server: 46.29.218.6, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _NO_FMYC-2021-11-25_258, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_259, server: 38.39.192.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_260, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _GB_FMYC-2021-11-25_261, server: 217.197.161.166, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_262, server: 217.197.161.166, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _GB_FMYC-2021-11-25_263, server: 217.197.161.166, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _GB_FMYC-2021-11-25_265, server: 185.172.113.85, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _GB_FMYC-2021-11-25_266, server: 185.172.113.85, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇫🇷 _FR_FMYC-2021-11-25_270, server: 145.239.1.137, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇫🇷 _FR_FMYC-2021-11-25_271, server: 145.239.1.137, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇫🇷 _FR_FMYC-2021-11-25_272, server: 145.239.1.137, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: 🇭🇰 _HK_FMYC-2021-11-25_274, server: 118.107.244.110, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_277, server: 134.195.198.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_278, server: 134.195.198.95, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_283, server: 185.172.113.156, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇲🇾 _GB_FMYC-2021-11-25_284, server: 185.172.113.156, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _GB_FMYC-2021-11-25_285, server: 185.172.113.156, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_295, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_303, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_308, server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇲🇾 _US_FMYC-2021-11-25_311, server: 172.99.190.90, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_322, server: 134.195.198.95, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_326, server: 134.195.196.33, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_329, server: 134.195.196.3, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_330, server: 134.195.196.3, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_331, server: 134.195.196.3, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_332, server: 134.195.196.214, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_333, server: 134.195.196.33, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇲🇾 _NON_FMYC-2021-11-25_334, server: 134.195.196.33, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_337, server: 134.195.196.214, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_339, server: 134.195.196.214, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_340, server: 134.195.196.33, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_344, server: 134.195.196.3, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_346, server: 134.195.196.33, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇲🇾 _NON_FMYC-2021-11-25_349, server: 134.195.198.95, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_352, server: 134.195.198.95, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_353, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_354, server: 134.195.196.3, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇲🇾 _CA_FMYC-2021-11-25_355, server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_358, server: 134.195.196.3, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇲🇾 _CA_FMYC-2021-11-25_359, server: 134.195.196.3, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
 proxy-groups:
@@ -180,83 +118,55 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - 🇨🇦 (已存活1天)加拿大-3.61MB/s
+      - 🇨🇦 加拿大-3.61MB/s
       - 🇺🇲 美国-3.47MB/s
-      - 🇺🇲 美国-4.01MB/s
       - 🇺🇲 美国-3.76MB/s
       - 🇺🇲 美国-2.34MB/s
       - 🇺🇲 美国-2.98MB/s
-      - 🇸🇬 新加坡-1.04MB/s
       - 🇸🇬 新加坡-768.4KB/s
       - 🇺🇲 US_03
       - 🇺🇲 US_07
-      - 🇺🇲 US_10
       - 🇺🇲 US_04
-      - 🇺🇲 US_05
       - ‌🇨🇦CA_04
-      - 🇺🇲 US_10 2
+      - 🇺🇲 US_10 (1)
       - 🇺🇲 US_12
       - 🇺🇲 _US_美国
-      - 🇺🇲 _US_美国 2
-      - 🇺🇲 _US_美国 3
-      - 🇺🇲 _US_美国 4
-      - 🇭🇰 [CM] [SS] HK64|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK35|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK32|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK62|2.0x|原生
-      - 🇨🇳 [CM] [SS] TW20|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK31|2.0x|原生
-      - 🇸🇬 [CM] [SS] SG21|2.0x|DNS
-      - 🇸🇬 [CM] [SS] SG51|2.0x|DNS
-      - 🇰🇷 [CM] [SS] KR10|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK61|2.0x|原生
-      - 🇺🇲 _US_美国 5
-      - 🇺🇲 US_05 2
+      - 🇺🇲 _US_美国 (1)
+      - 🇺🇲 _US_美国 (2)
+      - 🇺🇲 _US_美国 (4)
       - 🇺🇲 US_12 2
       - 🇺🇲 US_09
       - ‌🇨🇦CA_09
       - 🇺🇲 US_03 2
       - 🇫🇷 Relay_🇫🇷 FR-🇫🇷FR_99
-      - 🇬🇧 英国-2.47MB/s
-      - 🇬🇧 英国-2.24MB/s
       - 🇺🇲 美国-2.23MB/s
       - 🇬🇧 英国-3.44MB/s
       - 🇺🇲 美国-2.40MB/s
       - 🇨🇦 加拿大-3.42MB/s
-      - 🇸🇬 新加坡
-      - 🇸🇬 新加坡 2
-      - 🇸🇬 新加坡 3
-      - 🇸🇬 新加坡 4
-      - 🇸🇬 新加坡 5
-      - 🇸🇬 新加坡 6
-      - 🇸🇬 新加坡 7
-      - 🇸🇬 新加坡 8
-      - 🇸🇬 新加坡 9
-      - 🇸🇬 新加坡 10
-      - 🇸🇬 新加坡 11
-      - 🇲🇾 _US_FMYC-2021-11-25_23
-      - 🇲🇾 _NON_FMYC-2021-11-25_62
+      - 🇸🇬 新加坡 (1)
+      - 🇸🇬 新加坡 (2)
+      - 🇸🇬 新加坡 (3)
+      - 🇸🇬 新加坡 (4)
+      - 🇸🇬 新加坡 (5)
+      - 🇸🇬 新加坡 (6)
+      - 🇸🇬 新加坡 (8)
+      - 🇸🇬 新加坡 (9)
+      - 🇸🇬 新加坡 (10)
       - 🇲🇾 _SG_FMYC-2021-11-25_63
       - 🇲🇾 _GB_FMYC-2021-11-25_68
-      - 🇲🇾 _NON_FMYC-2021-11-25_71
-      - 🇲🇾 _NON_FMYC-2021-11-25_72
       - 🇲🇾 _NON_FMYC-2021-11-25_76
       - 🇲🇾 _NON_FMYC-2021-11-25_77
       - 🇲🇾 _NON_FMYC-2021-11-25_80
       - 🇲🇾 _NON_FMYC-2021-11-25_82
       - 🇲🇾 _NON_FMYC-2021-11-25_83
-      - 🇲🇾 _US_FMYC-2021-11-25_84
       - 🇲🇾 _US_FMYC-2021-11-25_87
       - 🇲🇾 _CA_FMYC-2021-11-25_88
       - 🇲🇾 _NON_FMYC-2021-11-25_89
       - 🇲🇾 _CA_FMYC-2021-11-25_90
-      - 🇲🇾 _CA_FMYC-2021-11-25_94
       - 🇲🇾 _NON_FMYC-2021-11-25_95
       - 🇲🇾 _NON_FMYC-2021-11-25_98
-      - 🇲🇾 _NON_FMYC-2021-11-25_99
       - 🇲🇾 _SC_FMYC-2021-11-25_100
       - 🇲🇾 _CA_FMYC-2021-11-25_108
-      - 🇲🇾 _NON_FMYC-2021-11-25_114
       - 🇩🇪 _DE_FMYC-2021-11-25_116
       - 🇲🇾 _NON_FMYC-2021-11-25_117
       - 🇲🇾 _NON_FMYC-2021-11-25_131
@@ -266,75 +176,41 @@ proxy-groups:
       - 🇲🇾 _NON_FMYC-2021-11-25_183
       - 🇲🇾 _CA_FMYC-2021-11-25_186
       - 🇲🇾 _NON_FMYC-2021-11-25_193
-      - 🇲🇾 _GB_FMYC-2021-11-25_197
       - 🇫🇷 _FR_FMYC-2021-11-25_202
-      - 🇲🇾 _MY_FMYC-2021-11-25_205
       - 🇲🇾 _NON_FMYC-2021-11-25_211
-      - 🇲🇾 _NON_FMYC-2021-11-25_212
-      - 🇲🇾 _NON_FMYC-2021-11-25_213
-      - 🇲🇾 _NON_FMYC-2021-11-25_214
-      - 🇲🇾 _NON_FMYC-2021-11-25_215
       - 🇲🇾 _NON_FMYC-2021-11-25_216
-      - 🇲🇾 _GB_FMYC-2021-11-25_217
       - 🇲🇾 _NO_FMYC-2021-11-25_224
       - 🇲🇾 _NO_FMYC-2021-11-25_225
       - 🇲🇾 _NO_FMYC-2021-11-25_226
       - 🇲🇾 _US_FMYC-2021-11-25_227
       - 🇲🇾 _GB_FMYC-2021-11-25_228
       - 🇲🇾 _GB_FMYC-2021-11-25_229
-      - 🇲🇾 _GB_FMYC-2021-11-25_230
       - 🇲🇾 _US_FMYC-2021-11-25_231
       - 🇲🇾 _US_FMYC-2021-11-25_232
       - 🇲🇾 _NON_FMYC-2021-11-25_233
       - 🇲🇾 _NON_FMYC-2021-11-25_235
       - 🇫🇷 _FR_FMYC-2021-11-25_236
-      - 🇲🇾 _NON_FMYC-2021-11-25_237
-      - 🇲🇾 _RU_FMYC-2021-11-25_242
-      - 🇲🇾 _RU_FMYC-2021-11-25_243
-      - 🇲🇾 _US_FMYC-2021-11-25_253
       - 🇲🇾 _NO_FMYC-2021-11-25_254
       - 🇲🇾 _NO_FMYC-2021-11-25_255
       - 🇲🇾 _NO_FMYC-2021-11-25_256
       - 🇲🇾 _NO_FMYC-2021-11-25_257
       - 🇲🇾 _NO_FMYC-2021-11-25_258
-      - 🇲🇾 _US_FMYC-2021-11-25_259
-      - 🇲🇾 _US_FMYC-2021-11-25_260
       - 🇲🇾 _GB_FMYC-2021-11-25_261
       - 🇲🇾 _NON_FMYC-2021-11-25_262
-      - 🇲🇾 _GB_FMYC-2021-11-25_263
-      - 🇲🇾 _GB_FMYC-2021-11-25_265
-      - 🇲🇾 _GB_FMYC-2021-11-25_266
       - 🇫🇷 _FR_FMYC-2021-11-25_270
       - 🇫🇷 _FR_FMYC-2021-11-25_271
       - 🇫🇷 _FR_FMYC-2021-11-25_272
       - 🇭🇰 _HK_FMYC-2021-11-25_274
-      - 🇲🇾 _NON_FMYC-2021-11-25_277
-      - 🇲🇾 _CA_FMYC-2021-11-25_278
-      - 🇲🇾 _NON_FMYC-2021-11-25_283
       - 🇲🇾 _GB_FMYC-2021-11-25_284
-      - 🇲🇾 _GB_FMYC-2021-11-25_285
-      - 🇲🇾 _US_FMYC-2021-11-25_295
-      - 🇲🇾 _NON_FMYC-2021-11-25_303
-      - 🇲🇾 _US_FMYC-2021-11-25_308
-      - 🇲🇾 _US_FMYC-2021-11-25_311
-      - 🇲🇾 _CA_FMYC-2021-11-25_322
-      - 🇲🇾 _CA_FMYC-2021-11-25_326
       - 🇲🇾 _CA_FMYC-2021-11-25_329
       - 🇲🇾 _CA_FMYC-2021-11-25_330
       - 🇲🇾 _CA_FMYC-2021-11-25_331
-      - 🇲🇾 _CA_FMYC-2021-11-25_332
       - 🇲🇾 _NON_FMYC-2021-11-25_333
       - 🇲🇾 _NON_FMYC-2021-11-25_334
-      - 🇲🇾 _CA_FMYC-2021-11-25_337
       - 🇲🇾 _CA_FMYC-2021-11-25_339
       - 🇲🇾 _CA_FMYC-2021-11-25_340
       - 🇲🇾 _CA_FMYC-2021-11-25_344
       - 🇲🇾 _CA_FMYC-2021-11-25_346
-      - 🇲🇾 _NON_FMYC-2021-11-25_349
-      - 🇲🇾 _CA_FMYC-2021-11-25_352
-      - 🇲🇾 _CA_FMYC-2021-11-25_353
-      - 🇲🇾 _CA_FMYC-2021-11-25_354
-      - 🇲🇾 _CA_FMYC-2021-11-25_355
       - 🇲🇾 _CA_FMYC-2021-11-25_358
       - 🇲🇾 _CA_FMYC-2021-11-25_359
   - name: ♻️ 自动选择
@@ -343,83 +219,55 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇦 (已存活1天)加拿大-3.61MB/s
+      - 🇨🇦 加拿大-3.61MB/s
       - 🇺🇲 美国-3.47MB/s
-      - 🇺🇲 美国-4.01MB/s
       - 🇺🇲 美国-3.76MB/s
       - 🇺🇲 美国-2.34MB/s
       - 🇺🇲 美国-2.98MB/s
-      - 🇸🇬 新加坡-1.04MB/s
       - 🇸🇬 新加坡-768.4KB/s
       - 🇺🇲 US_03
       - 🇺🇲 US_07
-      - 🇺🇲 US_10
       - 🇺🇲 US_04
-      - 🇺🇲 US_05
       - ‌🇨🇦CA_04
-      - 🇺🇲 US_10 2
+      - 🇺🇲 US_10 (1)
       - 🇺🇲 US_12
       - 🇺🇲 _US_美国
-      - 🇺🇲 _US_美国 2
-      - 🇺🇲 _US_美国 3
-      - 🇺🇲 _US_美国 4
-      - 🇭🇰 [CM] [SS] HK64|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK35|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK32|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK62|2.0x|原生
-      - 🇨🇳 [CM] [SS] TW20|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK31|2.0x|原生
-      - 🇸🇬 [CM] [SS] SG21|2.0x|DNS
-      - 🇸🇬 [CM] [SS] SG51|2.0x|DNS
-      - 🇰🇷 [CM] [SS] KR10|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK61|2.0x|原生
-      - 🇺🇲 _US_美国 5
-      - 🇺🇲 US_05 2
+      - 🇺🇲 _US_美国 (1)
+      - 🇺🇲 _US_美国 (2)
+      - 🇺🇲 _US_美国 (4)
       - 🇺🇲 US_12 2
       - 🇺🇲 US_09
       - ‌🇨🇦CA_09
       - 🇺🇲 US_03 2
       - 🇫🇷 Relay_🇫🇷 FR-🇫🇷FR_99
-      - 🇬🇧 英国-2.47MB/s
-      - 🇬🇧 英国-2.24MB/s
       - 🇺🇲 美国-2.23MB/s
       - 🇬🇧 英国-3.44MB/s
       - 🇺🇲 美国-2.40MB/s
       - 🇨🇦 加拿大-3.42MB/s
-      - 🇸🇬 新加坡
-      - 🇸🇬 新加坡 2
-      - 🇸🇬 新加坡 3
-      - 🇸🇬 新加坡 4
-      - 🇸🇬 新加坡 5
-      - 🇸🇬 新加坡 6
-      - 🇸🇬 新加坡 7
-      - 🇸🇬 新加坡 8
-      - 🇸🇬 新加坡 9
-      - 🇸🇬 新加坡 10
-      - 🇸🇬 新加坡 11
-      - 🇲🇾 _US_FMYC-2021-11-25_23
-      - 🇲🇾 _NON_FMYC-2021-11-25_62
+      - 🇸🇬 新加坡 (1)
+      - 🇸🇬 新加坡 (2)
+      - 🇸🇬 新加坡 (3)
+      - 🇸🇬 新加坡 (4)
+      - 🇸🇬 新加坡 (5)
+      - 🇸🇬 新加坡 (6)
+      - 🇸🇬 新加坡 (8)
+      - 🇸🇬 新加坡 (9)
+      - 🇸🇬 新加坡 (10)
       - 🇲🇾 _SG_FMYC-2021-11-25_63
       - 🇲🇾 _GB_FMYC-2021-11-25_68
-      - 🇲🇾 _NON_FMYC-2021-11-25_71
-      - 🇲🇾 _NON_FMYC-2021-11-25_72
       - 🇲🇾 _NON_FMYC-2021-11-25_76
       - 🇲🇾 _NON_FMYC-2021-11-25_77
       - 🇲🇾 _NON_FMYC-2021-11-25_80
       - 🇲🇾 _NON_FMYC-2021-11-25_82
       - 🇲🇾 _NON_FMYC-2021-11-25_83
-      - 🇲🇾 _US_FMYC-2021-11-25_84
       - 🇲🇾 _US_FMYC-2021-11-25_87
       - 🇲🇾 _CA_FMYC-2021-11-25_88
       - 🇲🇾 _NON_FMYC-2021-11-25_89
       - 🇲🇾 _CA_FMYC-2021-11-25_90
-      - 🇲🇾 _CA_FMYC-2021-11-25_94
       - 🇲🇾 _NON_FMYC-2021-11-25_95
       - 🇲🇾 _NON_FMYC-2021-11-25_98
-      - 🇲🇾 _NON_FMYC-2021-11-25_99
       - 🇲🇾 _SC_FMYC-2021-11-25_100
       - 🇲🇾 _CA_FMYC-2021-11-25_108
-      - 🇲🇾 _NON_FMYC-2021-11-25_114
       - 🇩🇪 _DE_FMYC-2021-11-25_116
       - 🇲🇾 _NON_FMYC-2021-11-25_117
       - 🇲🇾 _NON_FMYC-2021-11-25_131
@@ -429,75 +277,41 @@ proxy-groups:
       - 🇲🇾 _NON_FMYC-2021-11-25_183
       - 🇲🇾 _CA_FMYC-2021-11-25_186
       - 🇲🇾 _NON_FMYC-2021-11-25_193
-      - 🇲🇾 _GB_FMYC-2021-11-25_197
       - 🇫🇷 _FR_FMYC-2021-11-25_202
-      - 🇲🇾 _MY_FMYC-2021-11-25_205
       - 🇲🇾 _NON_FMYC-2021-11-25_211
-      - 🇲🇾 _NON_FMYC-2021-11-25_212
-      - 🇲🇾 _NON_FMYC-2021-11-25_213
-      - 🇲🇾 _NON_FMYC-2021-11-25_214
-      - 🇲🇾 _NON_FMYC-2021-11-25_215
       - 🇲🇾 _NON_FMYC-2021-11-25_216
-      - 🇲🇾 _GB_FMYC-2021-11-25_217
       - 🇲🇾 _NO_FMYC-2021-11-25_224
       - 🇲🇾 _NO_FMYC-2021-11-25_225
       - 🇲🇾 _NO_FMYC-2021-11-25_226
       - 🇲🇾 _US_FMYC-2021-11-25_227
       - 🇲🇾 _GB_FMYC-2021-11-25_228
       - 🇲🇾 _GB_FMYC-2021-11-25_229
-      - 🇲🇾 _GB_FMYC-2021-11-25_230
       - 🇲🇾 _US_FMYC-2021-11-25_231
       - 🇲🇾 _US_FMYC-2021-11-25_232
       - 🇲🇾 _NON_FMYC-2021-11-25_233
       - 🇲🇾 _NON_FMYC-2021-11-25_235
       - 🇫🇷 _FR_FMYC-2021-11-25_236
-      - 🇲🇾 _NON_FMYC-2021-11-25_237
-      - 🇲🇾 _RU_FMYC-2021-11-25_242
-      - 🇲🇾 _RU_FMYC-2021-11-25_243
-      - 🇲🇾 _US_FMYC-2021-11-25_253
       - 🇲🇾 _NO_FMYC-2021-11-25_254
       - 🇲🇾 _NO_FMYC-2021-11-25_255
       - 🇲🇾 _NO_FMYC-2021-11-25_256
       - 🇲🇾 _NO_FMYC-2021-11-25_257
       - 🇲🇾 _NO_FMYC-2021-11-25_258
-      - 🇲🇾 _US_FMYC-2021-11-25_259
-      - 🇲🇾 _US_FMYC-2021-11-25_260
       - 🇲🇾 _GB_FMYC-2021-11-25_261
       - 🇲🇾 _NON_FMYC-2021-11-25_262
-      - 🇲🇾 _GB_FMYC-2021-11-25_263
-      - 🇲🇾 _GB_FMYC-2021-11-25_265
-      - 🇲🇾 _GB_FMYC-2021-11-25_266
       - 🇫🇷 _FR_FMYC-2021-11-25_270
       - 🇫🇷 _FR_FMYC-2021-11-25_271
       - 🇫🇷 _FR_FMYC-2021-11-25_272
       - 🇭🇰 _HK_FMYC-2021-11-25_274
-      - 🇲🇾 _NON_FMYC-2021-11-25_277
-      - 🇲🇾 _CA_FMYC-2021-11-25_278
-      - 🇲🇾 _NON_FMYC-2021-11-25_283
       - 🇲🇾 _GB_FMYC-2021-11-25_284
-      - 🇲🇾 _GB_FMYC-2021-11-25_285
-      - 🇲🇾 _US_FMYC-2021-11-25_295
-      - 🇲🇾 _NON_FMYC-2021-11-25_303
-      - 🇲🇾 _US_FMYC-2021-11-25_308
-      - 🇲🇾 _US_FMYC-2021-11-25_311
-      - 🇲🇾 _CA_FMYC-2021-11-25_322
-      - 🇲🇾 _CA_FMYC-2021-11-25_326
       - 🇲🇾 _CA_FMYC-2021-11-25_329
       - 🇲🇾 _CA_FMYC-2021-11-25_330
       - 🇲🇾 _CA_FMYC-2021-11-25_331
-      - 🇲🇾 _CA_FMYC-2021-11-25_332
       - 🇲🇾 _NON_FMYC-2021-11-25_333
       - 🇲🇾 _NON_FMYC-2021-11-25_334
-      - 🇲🇾 _CA_FMYC-2021-11-25_337
       - 🇲🇾 _CA_FMYC-2021-11-25_339
       - 🇲🇾 _CA_FMYC-2021-11-25_340
       - 🇲🇾 _CA_FMYC-2021-11-25_344
       - 🇲🇾 _CA_FMYC-2021-11-25_346
-      - 🇲🇾 _NON_FMYC-2021-11-25_349
-      - 🇲🇾 _CA_FMYC-2021-11-25_352
-      - 🇲🇾 _CA_FMYC-2021-11-25_353
-      - 🇲🇾 _CA_FMYC-2021-11-25_354
-      - 🇲🇾 _CA_FMYC-2021-11-25_355
       - 🇲🇾 _CA_FMYC-2021-11-25_358
       - 🇲🇾 _CA_FMYC-2021-11-25_359
   - name: 🔯 故障转移
@@ -506,83 +320,55 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇦 (已存活1天)加拿大-3.61MB/s
+      - 🇨🇦 加拿大-3.61MB/s
       - 🇺🇲 美国-3.47MB/s
-      - 🇺🇲 美国-4.01MB/s
       - 🇺🇲 美国-3.76MB/s
       - 🇺🇲 美国-2.34MB/s
       - 🇺🇲 美国-2.98MB/s
-      - 🇸🇬 新加坡-1.04MB/s
       - 🇸🇬 新加坡-768.4KB/s
       - 🇺🇲 US_03
       - 🇺🇲 US_07
-      - 🇺🇲 US_10
       - 🇺🇲 US_04
-      - 🇺🇲 US_05
       - ‌🇨🇦CA_04
-      - 🇺🇲 US_10 2
+      - 🇺🇲 US_10 (1)
       - 🇺🇲 US_12
       - 🇺🇲 _US_美国
-      - 🇺🇲 _US_美国 2
-      - 🇺🇲 _US_美国 3
-      - 🇺🇲 _US_美国 4
-      - 🇭🇰 [CM] [SS] HK64|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK35|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK32|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK62|2.0x|原生
-      - 🇨🇳 [CM] [SS] TW20|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK31|2.0x|原生
-      - 🇸🇬 [CM] [SS] SG21|2.0x|DNS
-      - 🇸🇬 [CM] [SS] SG51|2.0x|DNS
-      - 🇰🇷 [CM] [SS] KR10|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK61|2.0x|原生
-      - 🇺🇲 _US_美国 5
-      - 🇺🇲 US_05 2
+      - 🇺🇲 _US_美国 (1)
+      - 🇺🇲 _US_美国 (2)
+      - 🇺🇲 _US_美国 (4)
       - 🇺🇲 US_12 2
       - 🇺🇲 US_09
       - ‌🇨🇦CA_09
       - 🇺🇲 US_03 2
       - 🇫🇷 Relay_🇫🇷 FR-🇫🇷FR_99
-      - 🇬🇧 英国-2.47MB/s
-      - 🇬🇧 英国-2.24MB/s
       - 🇺🇲 美国-2.23MB/s
       - 🇬🇧 英国-3.44MB/s
       - 🇺🇲 美国-2.40MB/s
       - 🇨🇦 加拿大-3.42MB/s
-      - 🇸🇬 新加坡
-      - 🇸🇬 新加坡 2
-      - 🇸🇬 新加坡 3
-      - 🇸🇬 新加坡 4
-      - 🇸🇬 新加坡 5
-      - 🇸🇬 新加坡 6
-      - 🇸🇬 新加坡 7
-      - 🇸🇬 新加坡 8
-      - 🇸🇬 新加坡 9
-      - 🇸🇬 新加坡 10
-      - 🇸🇬 新加坡 11
-      - 🇲🇾 _US_FMYC-2021-11-25_23
-      - 🇲🇾 _NON_FMYC-2021-11-25_62
+      - 🇸🇬 新加坡 (1)
+      - 🇸🇬 新加坡 (2)
+      - 🇸🇬 新加坡 (3)
+      - 🇸🇬 新加坡 (4)
+      - 🇸🇬 新加坡 (5)
+      - 🇸🇬 新加坡 (6)
+      - 🇸🇬 新加坡 (8)
+      - 🇸🇬 新加坡 (9)
+      - 🇸🇬 新加坡 (10)
       - 🇲🇾 _SG_FMYC-2021-11-25_63
       - 🇲🇾 _GB_FMYC-2021-11-25_68
-      - 🇲🇾 _NON_FMYC-2021-11-25_71
-      - 🇲🇾 _NON_FMYC-2021-11-25_72
       - 🇲🇾 _NON_FMYC-2021-11-25_76
       - 🇲🇾 _NON_FMYC-2021-11-25_77
       - 🇲🇾 _NON_FMYC-2021-11-25_80
       - 🇲🇾 _NON_FMYC-2021-11-25_82
       - 🇲🇾 _NON_FMYC-2021-11-25_83
-      - 🇲🇾 _US_FMYC-2021-11-25_84
       - 🇲🇾 _US_FMYC-2021-11-25_87
       - 🇲🇾 _CA_FMYC-2021-11-25_88
       - 🇲🇾 _NON_FMYC-2021-11-25_89
       - 🇲🇾 _CA_FMYC-2021-11-25_90
-      - 🇲🇾 _CA_FMYC-2021-11-25_94
       - 🇲🇾 _NON_FMYC-2021-11-25_95
       - 🇲🇾 _NON_FMYC-2021-11-25_98
-      - 🇲🇾 _NON_FMYC-2021-11-25_99
       - 🇲🇾 _SC_FMYC-2021-11-25_100
       - 🇲🇾 _CA_FMYC-2021-11-25_108
-      - 🇲🇾 _NON_FMYC-2021-11-25_114
       - 🇩🇪 _DE_FMYC-2021-11-25_116
       - 🇲🇾 _NON_FMYC-2021-11-25_117
       - 🇲🇾 _NON_FMYC-2021-11-25_131
@@ -592,75 +378,41 @@ proxy-groups:
       - 🇲🇾 _NON_FMYC-2021-11-25_183
       - 🇲🇾 _CA_FMYC-2021-11-25_186
       - 🇲🇾 _NON_FMYC-2021-11-25_193
-      - 🇲🇾 _GB_FMYC-2021-11-25_197
       - 🇫🇷 _FR_FMYC-2021-11-25_202
-      - 🇲🇾 _MY_FMYC-2021-11-25_205
       - 🇲🇾 _NON_FMYC-2021-11-25_211
-      - 🇲🇾 _NON_FMYC-2021-11-25_212
-      - 🇲🇾 _NON_FMYC-2021-11-25_213
-      - 🇲🇾 _NON_FMYC-2021-11-25_214
-      - 🇲🇾 _NON_FMYC-2021-11-25_215
       - 🇲🇾 _NON_FMYC-2021-11-25_216
-      - 🇲🇾 _GB_FMYC-2021-11-25_217
       - 🇲🇾 _NO_FMYC-2021-11-25_224
       - 🇲🇾 _NO_FMYC-2021-11-25_225
       - 🇲🇾 _NO_FMYC-2021-11-25_226
       - 🇲🇾 _US_FMYC-2021-11-25_227
       - 🇲🇾 _GB_FMYC-2021-11-25_228
       - 🇲🇾 _GB_FMYC-2021-11-25_229
-      - 🇲🇾 _GB_FMYC-2021-11-25_230
       - 🇲🇾 _US_FMYC-2021-11-25_231
       - 🇲🇾 _US_FMYC-2021-11-25_232
       - 🇲🇾 _NON_FMYC-2021-11-25_233
       - 🇲🇾 _NON_FMYC-2021-11-25_235
       - 🇫🇷 _FR_FMYC-2021-11-25_236
-      - 🇲🇾 _NON_FMYC-2021-11-25_237
-      - 🇲🇾 _RU_FMYC-2021-11-25_242
-      - 🇲🇾 _RU_FMYC-2021-11-25_243
-      - 🇲🇾 _US_FMYC-2021-11-25_253
       - 🇲🇾 _NO_FMYC-2021-11-25_254
       - 🇲🇾 _NO_FMYC-2021-11-25_255
       - 🇲🇾 _NO_FMYC-2021-11-25_256
       - 🇲🇾 _NO_FMYC-2021-11-25_257
       - 🇲🇾 _NO_FMYC-2021-11-25_258
-      - 🇲🇾 _US_FMYC-2021-11-25_259
-      - 🇲🇾 _US_FMYC-2021-11-25_260
       - 🇲🇾 _GB_FMYC-2021-11-25_261
       - 🇲🇾 _NON_FMYC-2021-11-25_262
-      - 🇲🇾 _GB_FMYC-2021-11-25_263
-      - 🇲🇾 _GB_FMYC-2021-11-25_265
-      - 🇲🇾 _GB_FMYC-2021-11-25_266
       - 🇫🇷 _FR_FMYC-2021-11-25_270
       - 🇫🇷 _FR_FMYC-2021-11-25_271
       - 🇫🇷 _FR_FMYC-2021-11-25_272
       - 🇭🇰 _HK_FMYC-2021-11-25_274
-      - 🇲🇾 _NON_FMYC-2021-11-25_277
-      - 🇲🇾 _CA_FMYC-2021-11-25_278
-      - 🇲🇾 _NON_FMYC-2021-11-25_283
       - 🇲🇾 _GB_FMYC-2021-11-25_284
-      - 🇲🇾 _GB_FMYC-2021-11-25_285
-      - 🇲🇾 _US_FMYC-2021-11-25_295
-      - 🇲🇾 _NON_FMYC-2021-11-25_303
-      - 🇲🇾 _US_FMYC-2021-11-25_308
-      - 🇲🇾 _US_FMYC-2021-11-25_311
-      - 🇲🇾 _CA_FMYC-2021-11-25_322
-      - 🇲🇾 _CA_FMYC-2021-11-25_326
       - 🇲🇾 _CA_FMYC-2021-11-25_329
       - 🇲🇾 _CA_FMYC-2021-11-25_330
       - 🇲🇾 _CA_FMYC-2021-11-25_331
-      - 🇲🇾 _CA_FMYC-2021-11-25_332
       - 🇲🇾 _NON_FMYC-2021-11-25_333
       - 🇲🇾 _NON_FMYC-2021-11-25_334
-      - 🇲🇾 _CA_FMYC-2021-11-25_337
       - 🇲🇾 _CA_FMYC-2021-11-25_339
       - 🇲🇾 _CA_FMYC-2021-11-25_340
       - 🇲🇾 _CA_FMYC-2021-11-25_344
       - 🇲🇾 _CA_FMYC-2021-11-25_346
-      - 🇲🇾 _NON_FMYC-2021-11-25_349
-      - 🇲🇾 _CA_FMYC-2021-11-25_352
-      - 🇲🇾 _CA_FMYC-2021-11-25_353
-      - 🇲🇾 _CA_FMYC-2021-11-25_354
-      - 🇲🇾 _CA_FMYC-2021-11-25_355
       - 🇲🇾 _CA_FMYC-2021-11-25_358
       - 🇲🇾 _CA_FMYC-2021-11-25_359
   - name: 🔮 负载均衡
@@ -669,83 +421,55 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇦 (已存活1天)加拿大-3.61MB/s
+      - 🇨🇦 加拿大-3.61MB/s
       - 🇺🇲 美国-3.47MB/s
-      - 🇺🇲 美国-4.01MB/s
       - 🇺🇲 美国-3.76MB/s
       - 🇺🇲 美国-2.34MB/s
       - 🇺🇲 美国-2.98MB/s
-      - 🇸🇬 新加坡-1.04MB/s
       - 🇸🇬 新加坡-768.4KB/s
       - 🇺🇲 US_03
       - 🇺🇲 US_07
-      - 🇺🇲 US_10
       - 🇺🇲 US_04
-      - 🇺🇲 US_05
       - ‌🇨🇦CA_04
-      - 🇺🇲 US_10 2
+      - 🇺🇲 US_10 (1)
       - 🇺🇲 US_12
       - 🇺🇲 _US_美国
-      - 🇺🇲 _US_美国 2
-      - 🇺🇲 _US_美国 3
-      - 🇺🇲 _US_美国 4
-      - 🇭🇰 [CM] [SS] HK64|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK35|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK32|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK62|2.0x|原生
-      - 🇨🇳 [CM] [SS] TW20|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK31|2.0x|原生
-      - 🇸🇬 [CM] [SS] SG21|2.0x|DNS
-      - 🇸🇬 [CM] [SS] SG51|2.0x|DNS
-      - 🇰🇷 [CM] [SS] KR10|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK61|2.0x|原生
-      - 🇺🇲 _US_美国 5
-      - 🇺🇲 US_05 2
+      - 🇺🇲 _US_美国 (1)
+      - 🇺🇲 _US_美国 (2)
+      - 🇺🇲 _US_美国 (4)
       - 🇺🇲 US_12 2
       - 🇺🇲 US_09
       - ‌🇨🇦CA_09
       - 🇺🇲 US_03 2
       - 🇫🇷 Relay_🇫🇷 FR-🇫🇷FR_99
-      - 🇬🇧 英国-2.47MB/s
-      - 🇬🇧 英国-2.24MB/s
       - 🇺🇲 美国-2.23MB/s
       - 🇬🇧 英国-3.44MB/s
       - 🇺🇲 美国-2.40MB/s
       - 🇨🇦 加拿大-3.42MB/s
-      - 🇸🇬 新加坡
-      - 🇸🇬 新加坡 2
-      - 🇸🇬 新加坡 3
-      - 🇸🇬 新加坡 4
-      - 🇸🇬 新加坡 5
-      - 🇸🇬 新加坡 6
-      - 🇸🇬 新加坡 7
-      - 🇸🇬 新加坡 8
-      - 🇸🇬 新加坡 9
-      - 🇸🇬 新加坡 10
-      - 🇸🇬 新加坡 11
-      - 🇲🇾 _US_FMYC-2021-11-25_23
-      - 🇲🇾 _NON_FMYC-2021-11-25_62
+      - 🇸🇬 新加坡 (1)
+      - 🇸🇬 新加坡 (2)
+      - 🇸🇬 新加坡 (3)
+      - 🇸🇬 新加坡 (4)
+      - 🇸🇬 新加坡 (5)
+      - 🇸🇬 新加坡 (6)
+      - 🇸🇬 新加坡 (8)
+      - 🇸🇬 新加坡 (9)
+      - 🇸🇬 新加坡 (10)
       - 🇲🇾 _SG_FMYC-2021-11-25_63
       - 🇲🇾 _GB_FMYC-2021-11-25_68
-      - 🇲🇾 _NON_FMYC-2021-11-25_71
-      - 🇲🇾 _NON_FMYC-2021-11-25_72
       - 🇲🇾 _NON_FMYC-2021-11-25_76
       - 🇲🇾 _NON_FMYC-2021-11-25_77
       - 🇲🇾 _NON_FMYC-2021-11-25_80
       - 🇲🇾 _NON_FMYC-2021-11-25_82
       - 🇲🇾 _NON_FMYC-2021-11-25_83
-      - 🇲🇾 _US_FMYC-2021-11-25_84
       - 🇲🇾 _US_FMYC-2021-11-25_87
       - 🇲🇾 _CA_FMYC-2021-11-25_88
       - 🇲🇾 _NON_FMYC-2021-11-25_89
       - 🇲🇾 _CA_FMYC-2021-11-25_90
-      - 🇲🇾 _CA_FMYC-2021-11-25_94
       - 🇲🇾 _NON_FMYC-2021-11-25_95
       - 🇲🇾 _NON_FMYC-2021-11-25_98
-      - 🇲🇾 _NON_FMYC-2021-11-25_99
       - 🇲🇾 _SC_FMYC-2021-11-25_100
       - 🇲🇾 _CA_FMYC-2021-11-25_108
-      - 🇲🇾 _NON_FMYC-2021-11-25_114
       - 🇩🇪 _DE_FMYC-2021-11-25_116
       - 🇲🇾 _NON_FMYC-2021-11-25_117
       - 🇲🇾 _NON_FMYC-2021-11-25_131
@@ -755,75 +479,41 @@ proxy-groups:
       - 🇲🇾 _NON_FMYC-2021-11-25_183
       - 🇲🇾 _CA_FMYC-2021-11-25_186
       - 🇲🇾 _NON_FMYC-2021-11-25_193
-      - 🇲🇾 _GB_FMYC-2021-11-25_197
       - 🇫🇷 _FR_FMYC-2021-11-25_202
-      - 🇲🇾 _MY_FMYC-2021-11-25_205
       - 🇲🇾 _NON_FMYC-2021-11-25_211
-      - 🇲🇾 _NON_FMYC-2021-11-25_212
-      - 🇲🇾 _NON_FMYC-2021-11-25_213
-      - 🇲🇾 _NON_FMYC-2021-11-25_214
-      - 🇲🇾 _NON_FMYC-2021-11-25_215
       - 🇲🇾 _NON_FMYC-2021-11-25_216
-      - 🇲🇾 _GB_FMYC-2021-11-25_217
       - 🇲🇾 _NO_FMYC-2021-11-25_224
       - 🇲🇾 _NO_FMYC-2021-11-25_225
       - 🇲🇾 _NO_FMYC-2021-11-25_226
       - 🇲🇾 _US_FMYC-2021-11-25_227
       - 🇲🇾 _GB_FMYC-2021-11-25_228
       - 🇲🇾 _GB_FMYC-2021-11-25_229
-      - 🇲🇾 _GB_FMYC-2021-11-25_230
       - 🇲🇾 _US_FMYC-2021-11-25_231
       - 🇲🇾 _US_FMYC-2021-11-25_232
       - 🇲🇾 _NON_FMYC-2021-11-25_233
       - 🇲🇾 _NON_FMYC-2021-11-25_235
       - 🇫🇷 _FR_FMYC-2021-11-25_236
-      - 🇲🇾 _NON_FMYC-2021-11-25_237
-      - 🇲🇾 _RU_FMYC-2021-11-25_242
-      - 🇲🇾 _RU_FMYC-2021-11-25_243
-      - 🇲🇾 _US_FMYC-2021-11-25_253
       - 🇲🇾 _NO_FMYC-2021-11-25_254
       - 🇲🇾 _NO_FMYC-2021-11-25_255
       - 🇲🇾 _NO_FMYC-2021-11-25_256
       - 🇲🇾 _NO_FMYC-2021-11-25_257
       - 🇲🇾 _NO_FMYC-2021-11-25_258
-      - 🇲🇾 _US_FMYC-2021-11-25_259
-      - 🇲🇾 _US_FMYC-2021-11-25_260
       - 🇲🇾 _GB_FMYC-2021-11-25_261
       - 🇲🇾 _NON_FMYC-2021-11-25_262
-      - 🇲🇾 _GB_FMYC-2021-11-25_263
-      - 🇲🇾 _GB_FMYC-2021-11-25_265
-      - 🇲🇾 _GB_FMYC-2021-11-25_266
       - 🇫🇷 _FR_FMYC-2021-11-25_270
       - 🇫🇷 _FR_FMYC-2021-11-25_271
       - 🇫🇷 _FR_FMYC-2021-11-25_272
       - 🇭🇰 _HK_FMYC-2021-11-25_274
-      - 🇲🇾 _NON_FMYC-2021-11-25_277
-      - 🇲🇾 _CA_FMYC-2021-11-25_278
-      - 🇲🇾 _NON_FMYC-2021-11-25_283
       - 🇲🇾 _GB_FMYC-2021-11-25_284
-      - 🇲🇾 _GB_FMYC-2021-11-25_285
-      - 🇲🇾 _US_FMYC-2021-11-25_295
-      - 🇲🇾 _NON_FMYC-2021-11-25_303
-      - 🇲🇾 _US_FMYC-2021-11-25_308
-      - 🇲🇾 _US_FMYC-2021-11-25_311
-      - 🇲🇾 _CA_FMYC-2021-11-25_322
-      - 🇲🇾 _CA_FMYC-2021-11-25_326
       - 🇲🇾 _CA_FMYC-2021-11-25_329
       - 🇲🇾 _CA_FMYC-2021-11-25_330
       - 🇲🇾 _CA_FMYC-2021-11-25_331
-      - 🇲🇾 _CA_FMYC-2021-11-25_332
       - 🇲🇾 _NON_FMYC-2021-11-25_333
       - 🇲🇾 _NON_FMYC-2021-11-25_334
-      - 🇲🇾 _CA_FMYC-2021-11-25_337
       - 🇲🇾 _CA_FMYC-2021-11-25_339
       - 🇲🇾 _CA_FMYC-2021-11-25_340
       - 🇲🇾 _CA_FMYC-2021-11-25_344
       - 🇲🇾 _CA_FMYC-2021-11-25_346
-      - 🇲🇾 _NON_FMYC-2021-11-25_349
-      - 🇲🇾 _CA_FMYC-2021-11-25_352
-      - 🇲🇾 _CA_FMYC-2021-11-25_353
-      - 🇲🇾 _CA_FMYC-2021-11-25_354
-      - 🇲🇾 _CA_FMYC-2021-11-25_355
       - 🇲🇾 _CA_FMYC-2021-11-25_358
       - 🇲🇾 _CA_FMYC-2021-11-25_359
   - name: 📲 电报消息
@@ -1012,12 +702,6 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇭🇰 [CM] [SS] HK64|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK35|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK32|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK62|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK31|2.0x|原生
-      - 🇭🇰 [CM] [SS] HK61|2.0x|原生
       - 🇭🇰 _HK_FMYC-2021-11-25_274
   - name: 🇯🇵 日本节点
     type: url-test
@@ -1033,68 +717,50 @@ proxy-groups:
     tolerance: 150
     proxies:
       - 🇺🇲 美国-3.47MB/s
-      - 🇺🇲 美国-4.01MB/s
       - 🇺🇲 美国-3.76MB/s
       - 🇺🇲 美国-2.34MB/s
       - 🇺🇲 美国-2.98MB/s
       - 🇺🇲 US_03
       - 🇺🇲 US_07
-      - 🇺🇲 US_10
       - 🇺🇲 US_04
-      - 🇺🇲 US_05
-      - 🇺🇲 US_10 2
+      - 🇺🇲 US_10 (1)
       - 🇺🇲 US_12
       - 🇺🇲 _US_美国
-      - 🇺🇲 _US_美国 2
-      - 🇺🇲 _US_美国 3
-      - 🇺🇲 _US_美国 4
-      - 🇺🇲 _US_美国 5
-      - 🇺🇲 US_05 2
+      - 🇺🇲 _US_美国 (1)
+      - 🇺🇲 _US_美国 (2)
+      - 🇺🇲 _US_美国 (4)
       - 🇺🇲 US_12 2
       - 🇺🇲 US_09
       - 🇺🇲 US_03 2
       - 🇺🇲 美国-2.23MB/s
       - 🇺🇲 美国-2.40MB/s
-      - 🇲🇾 _US_FMYC-2021-11-25_23
-      - 🇲🇾 _US_FMYC-2021-11-25_84
       - 🇲🇾 _US_FMYC-2021-11-25_87
       - 🇲🇾 _US_FMYC-2021-11-25_227
       - 🇲🇾 _US_FMYC-2021-11-25_231
       - 🇲🇾 _US_FMYC-2021-11-25_232
-      - 🇲🇾 _US_FMYC-2021-11-25_253
-      - 🇲🇾 _US_FMYC-2021-11-25_259
-      - 🇲🇾 _US_FMYC-2021-11-25_260
-      - 🇲🇾 _US_FMYC-2021-11-25_295
-      - 🇲🇾 _US_FMYC-2021-11-25_308
-      - 🇲🇾 _US_FMYC-2021-11-25_311
   - name: 🇨🇳 台湾节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇳 [CM] [SS] TW20|2.0x|原生
+      - DIRECT
   - name: 🇸🇬 狮城节点
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇸🇬 新加坡-1.04MB/s
       - 🇸🇬 新加坡-768.4KB/s
-      - 🇸🇬 [CM] [SS] SG21|2.0x|DNS
-      - 🇸🇬 [CM] [SS] SG51|2.0x|DNS
-      - 🇸🇬 新加坡
-      - 🇸🇬 新加坡 2
-      - 🇸🇬 新加坡 3
-      - 🇸🇬 新加坡 4
-      - 🇸🇬 新加坡 5
-      - 🇸🇬 新加坡 6
-      - 🇸🇬 新加坡 7
-      - 🇸🇬 新加坡 8
-      - 🇸🇬 新加坡 9
-      - 🇸🇬 新加坡 10
-      - 🇸🇬 新加坡 11
+      - 🇸🇬 新加坡 (1)
+      - 🇸🇬 新加坡 (2)
+      - 🇸🇬 新加坡 (3)
+      - 🇸🇬 新加坡 (4)
+      - 🇸🇬 新加坡 (5)
+      - 🇸🇬 新加坡 (6)
+      - 🇸🇬 新加坡 (8)
+      - 🇸🇬 新加坡 (9)
+      - 🇸🇬 新加坡 (10)
       - 🇲🇾 _SG_FMYC-2021-11-25_63
   - name: 🇰🇷 韩国节点
     type: url-test
@@ -1102,7 +768,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇰🇷 [CM] [SS] KR10|2.0x|原生
+      - DIRECT
   - name: 🎥 奈飞节点
     type: select
     proxies:
